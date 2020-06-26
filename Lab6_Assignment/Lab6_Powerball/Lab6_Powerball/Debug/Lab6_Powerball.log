@@ -1,0 +1,5 @@
+﻿  powerball.cpp
+C:\Users\ajshe\Desktop\CS1 Lab Projects\CS1A Assignments\Lab6 Project\Lab6_Powerball\Lab6_Powerball\powerball.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  powerballMain.cpp
+  Generating Code...
+  Lab6_Powerball.vcxproj -> C:\Users\ajshe\Desktop\CS1 Lab Projects\CS1A Assignments\Lab6 Project\Lab6_Powerball\Debug\Lab6_Powerball.exe
