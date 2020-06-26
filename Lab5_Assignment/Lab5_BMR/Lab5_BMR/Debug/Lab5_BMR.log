@@ -1,0 +1,4 @@
+﻿  bmr.cpp
+C:\Users\ajshe\Desktop\CS1 Lab Projects\Lab5 Project\Lab5_BMR\Lab5_BMR\bmr.cpp(47,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ajshe\Desktop\CS1 Lab Projects\Lab5 Project\Lab5_BMR\Lab5_BMR\bmr.cpp(56,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab5_BMR.vcxproj -> C:\Users\ajshe\Desktop\CS1 Lab Projects\Lab5 Project\Lab5_BMR\Debug\Lab5_BMR.exe
